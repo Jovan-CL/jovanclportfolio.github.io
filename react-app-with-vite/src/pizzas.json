@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image":"images/mini-pizza.jpg",
+      "name": " Buffalo Chicken pizza",
+      "price": 179
+    },
+    {
+      "id": 2,
+      "image":"images/mini-pizza.jpg",
+      "name": "Hawaii pizza",
+      "price": 179
+    },
+    {
+      "id": 3,
+      "image":"images/mini-pizza.jpg",
+      "name": "Pepperoni pizza",
+      "price": 189
+    },
+    {
+      "id": 4,
+      "image":"images/mini-pizza.jpg",
+      "name": "Ham and Cheese pizza",
+      "price": 110
+    },
+    {
+      "id": 5,
+      "image":"images/mini-pizza.jpg",
+      "name": "Cheesy Overload pizza",
+      "price": 110
+    },
+    {
+      "id": 6,
+      "image":"images/mini-pizza.jpg",
+      "name": "Mushroom pizza",
+      "price": 110
+    },
+    {
+      "id": 7,
+      "image":"images/mini-pizza.jpg",
+      "name": "Chicken BBQ pizza",
+      "price": 110
+    },
+    {
+      "id": 8,
+      "image":"images/mini-pizza.jpg",
+      "name": "Chicken BBQ pizza",
+      "price": 110
+    },
+    {
+      "id": 9,
+      "image":"images/mini-pizza.jpg",
+      "name": "Chicken BBQ pizza",
+      "price": 110
+    },
+    {
+      "id": 10,
+      "image":"images/mini-pizza.jpg",
+      "name": "Chicken BBQ pizza",
+      "price": 110
+    }
+  ]

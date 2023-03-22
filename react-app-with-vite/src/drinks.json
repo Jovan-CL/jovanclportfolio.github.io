@@ -1,0 +1,132 @@
+[
+    {
+       "id": 1,
+       "image": "images/coke.jpg",
+       "name": "Fresh Mangoes",
+       "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+       
+    },
+    {
+        "id": 2,
+        "image": "images/coke.jpg",
+        "name": "Crushed Grahams",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 3,
+        "image": "images/coke.jpg",
+        "name": "Tapioca Pearls",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 4,
+        "image": "images/coke.jpg",
+        "name": "Caramelized Syrup",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 5,
+        "image": "images/coke.jpg",
+        "name": "Kremdensada",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 6,
+        "image": "images/coke.jpg",
+        "name": "Coke",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 7,
+        "image": "images/coke.jpg",
+        "name": "Coke",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 8,
+        "image": "images/coke.jpg",
+        "name": "Coke",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 9,
+        "image": "images/coke.jpg",
+        "name": "Coke",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    },
+    {
+        "id": 10,
+        "image": "images/coke.jpg",
+        "name": "Coke",
+        "price": 
+        [
+            {
+                "small": 55,
+                "large": 75
+            }
+        ] 
+        
+    }
+]
